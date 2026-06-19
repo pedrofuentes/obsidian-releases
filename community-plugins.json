@@ -34564,5 +34564,12 @@
     "author": "CHEH Hua",
     "description": "Insert LaTeX math with customizable keyboard shortcuts, inline MathJax preview, and display-math environments. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ichenh/obsidian-math-chords"
+  },
+  {
+    "id": "subtitles-md",
+    "name": "Subtitles MD",
+    "author": "Pedro Fuentes",
+    "description": "Read .srt/.vtt transcripts as readable, searchable Markdown.",
+    "repo": "pedrofuentes/obsidian-subtitles-md"
   }
 ]
