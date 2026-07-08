@@ -34821,7 +34821,7 @@
     "id": "subtitles-md",
     "name": "Subtitles MD",
     "author": "Pedro Fuentes",
-    "description": "An Obsidian plugin that reads .srt/.vtt transcripts as readable, searchable Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Read .srt and .vtt subtitle and transcript files as readable, searchable Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "pedrofuentes/obsidian-subtitles-md"
   },
   {
